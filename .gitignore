@@ -1,0 +1,17 @@
+.settings/org.eclipse.core.resources.prefs
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.m2e.core.prefs
+target/classes/META-INF/MANIFEST.MF
+target/classes/META-INF/maven/com.huihuilove.app/bot-star/pom.properties
+target/classes/META-INF/maven/com.huihuilove.app/bot-star/pom.xml
+target/classes/application.properties
+target/classes/com/huihuilove/app/bot_star/App.class
+target/classes/com/huihuilove/app/bot_star/Bot.class
+target/classes/com/huihuilove/app/bot_star/impl/SinaBot.class
+target/classes/com/huihuilove/app/bot_star/rest/Rest.class
+target/classes/com/huihuilove/app/bot_star/rest/impl/SinaRest.class
+target/classes/com/huihuilove/app/bot_star/setting/SinaRestSetting.class
+target/classes/com/huihuilove/app/bot_star/task/ScheduledTasks.class
+target/classes/log4j.properties
+target/classes/sina.properties
+target/test-classes/com/huihuilove/app/bot_star/AppTest.class
